@@ -19,7 +19,7 @@ def vowelsCount(string1):
             else:
                 counter2[ch] = 1
 
-    return counter1, counter2
+    return counter1
 
 string1 = 'Acomputerisamachine'
 print(f"Vowels count followed by consonants:{vowelsCount(string1)}")
@@ -36,4 +36,4 @@ def vowelsCount(string1):
 
     return counter1
 
-print(vowelsCount('Computer'))
+print(vowelsCount('Acomputerisamachine'))
