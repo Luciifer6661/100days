@@ -32,7 +32,6 @@ colors = [
 center_x = 300
 center_y = 300
 radius = 250
-
 current_angle = 0
 
 # Draw pointer
