@@ -3,3 +3,7 @@
 
 Hints:
     Using the ** operator'''
+import math    
+def square(num):
+     return num**2
+print(square(7))
